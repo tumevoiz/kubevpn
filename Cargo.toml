@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "crates/kubectl-vpn",
+    "crates/kubevpnd",
+    "crates/shared"
+]
